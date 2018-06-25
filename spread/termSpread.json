@@ -1,0 +1,17 @@
+[
+  {
+    "spread": "IC",
+    "instruments":
+    [
+      "IC1806", "IC1807", "IC1809", "IC1812"
+    ]
+  },
+
+  {
+    "spread": "IF",
+    "instruments":
+    [
+      "IF1806", "IF1807", "IF1809", "IF1812"
+    ]
+  }
+]
